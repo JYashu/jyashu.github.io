@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jyashu.github.io
+Token: ea2db65beb0d67ae306b5175f9bb5b7ba3ca8e42baa9b69cda17bd87cd39178f
